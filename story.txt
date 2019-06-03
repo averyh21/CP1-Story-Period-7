@@ -6,6 +6,14 @@ I leave for school by 7:10
 + I get to school by 7:35
 I went to school
 I attend my classes
+Period 1
+Period 2
+Period 3
+Period 4
+Period 5
+Period 6
+Period 7
+Period 8
 I came home from school
 I come home
 + I do homework
