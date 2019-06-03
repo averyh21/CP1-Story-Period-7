@@ -1,12 +1,12 @@
 I wake up at 6:15
 I roll out of bed at 6:20
 I shower at 6:25
-+I am downstairs by 6:45
++ I am downstairs by 6:45
 I leave for school by 7:10
 + I get to school by 7:35
 I attend my classes
 I come home
-+I do homework
-+I walk my dog
++ I do homework
++ I walk my dog
 I eat dinner
 I go to bed
